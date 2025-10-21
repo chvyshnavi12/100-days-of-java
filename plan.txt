@@ -1,0 +1,261 @@
+Excellent goal 👏 — A **100-day structured plan** is one of the best ways to go from **Java beginner → advanced developer**, especially if you want to build strong problem-solving and project skills.
+
+Below is a **complete 100-day roadmap** with *daily question themes*, grouped by topics.
+I’ll include **specific coding questions**, **concepts to learn**, and **mini-project ideas** — so by Day 100, you’ll be solid in Core Java, OOP, DSA, and Full Stack Java skills.
+
+---
+
+## 🗓️ **100 Days Java Improvement Plan**
+
+### **Phase 1: Core Java (Days 1–25)**
+
+> Goal: Build strong fundamentals — syntax, control flow, arrays, strings, OOP.
+
+#### **Days 1–5: Java Basics**
+
+* Learn: Variables, Data types, Operators, Input/Output, Type casting
+* Questions:
+
+  1. Write a program to swap two numbers without using a third variable.
+  2. Check if a number is even or odd.
+  3. Find largest of 3 numbers.
+  4. Check if a character is a vowel or consonant.
+  5. Print multiplication table for a given number.
+
+#### **Days 6–10: Loops and Conditional Statements**
+
+* Learn: if-else, switch, for, while, do-while
+* Questions:
+
+  1. Reverse a number.
+  2. Check if a number is palindrome.
+  3. Print Fibonacci series up to N.
+  4. Count digits, sum of digits.
+  5. Print prime numbers up to N.
+
+#### **Days 11–15: Arrays**
+
+* Learn: 1D & 2D Arrays, min/max, sorting, searching
+* Questions:
+
+  1. Find largest and smallest in array.
+  2. Find second largest.
+  3. Reverse array in-place.
+  4. Count frequency of each element.
+  5. Rotate array by k positions.
+
+#### **Days 16–20: Strings**
+
+* Learn: String, StringBuilder, immutability, substring, charAt()
+* Questions:
+
+  1. Reverse a string.
+  2. Check for palindrome string.
+  3. Count vowels/consonants.
+  4. Find first non-repeated character.
+  5. Remove duplicates.
+
+#### **Days 21–25: OOP Basics**
+
+* Learn: Classes, Objects, Constructors, `this`, `static`
+* Questions:
+
+  1. Create a `Student` class and print details.
+  2. Demonstrate constructor overloading.
+  3. Implement a Bank Account class with deposit/withdraw.
+  4. Create a simple calculator using classes.
+  5. Implement a `Rectangle` class with area & perimeter methods.
+
+---
+
+### **Phase 2: Advanced OOP & Collections (Days 26–50)**
+
+> Goal: Deepen OOP understanding, master inheritance, polymorphism, abstraction, interfaces, and collections.
+
+#### **Days 26–30: Inheritance & Polymorphism**
+
+* Learn: `extends`, `super`, overriding, dynamic binding
+* Questions:
+
+  1. Create a class hierarchy `Animal -> Dog -> Labrador`.
+  2. Demonstrate method overriding.
+  3. Use `super` to call parent methods.
+  4. Implement runtime polymorphism.
+  5. Show the use of `final` keyword.
+
+#### **Days 31–35: Abstraction & Interfaces**
+
+* Learn: abstract classes, interfaces, multiple inheritance
+* Questions:
+
+  1. Create an abstract class `Shape` with subclasses `Circle`, `Rectangle`.
+  2. Implement multiple interfaces.
+  3. Demonstrate `default` and `static` methods in interfaces.
+  4. Create interface-based Payment System (`PayPal`, `UPI`, etc.)
+  5. Difference between abstract class and interface (theory + code).
+
+#### **Days 36–40: Exception Handling**
+
+* Learn: `try-catch-finally`, `throw`, `throws`, custom exceptions
+* Questions:
+
+  1. Divide by zero example (handle `ArithmeticException`).
+  2. Handle `ArrayIndexOutOfBoundsException`.
+  3. Create a custom `InvalidAgeException`.
+  4. Demonstrate multiple catch blocks.
+  5. Nested try-catch examples.
+
+#### **Days 41–45: Collections Framework**
+
+* Learn: `List`, `Set`, `Map`, `Queue`, Iterators
+* Questions:
+
+  1. Store student names in ArrayList and sort them.
+  2. Remove duplicates using `HashSet`.
+  3. Count word frequency using `HashMap`.
+  4. Implement priority queue.
+  5. Iterate using Iterator and forEach.
+
+#### **Days 46–50: Generics & Wrapper Classes**
+
+* Learn: Generic methods/classes, autoboxing/unboxing
+* Questions:
+
+  1. Create a generic class to store any type.
+  2. Write a generic method to print arrays.
+  3. Demonstrate autoboxing/unboxing.
+  4. Use `Comparator` and `Comparable`.
+  5. Sort list using custom comparator.
+
+---
+
+### **Phase 3: DSA in Java (Days 51–75)**
+
+> Goal: Practice Data Structures & Algorithms using Java.
+
+#### **Days 51–55: Linked List**
+
+* Questions:
+
+  1. Create singly linked list.
+  2. Reverse linked list.
+  3. Detect cycle.
+  4. Find middle element.
+  5. Merge two sorted lists.
+
+#### **Days 56–60: Stack & Queue**
+
+* Questions:
+
+  1. Implement stack using array.
+  2. Implement queue using linked list.
+  3. Check for balanced parentheses.
+  4. Implement min stack.
+  5. Reverse a queue.
+
+#### **Days 61–65: Recursion**
+
+* Questions:
+
+  1. Factorial, Fibonacci using recursion.
+  2. Tower of Hanoi.
+  3. Print all permutations of string.
+  4. Subset sum problem.
+  5. Binary search recursively.
+
+#### **Days 66–70: Sorting & Searching**
+
+* Learn: Bubble, Selection, Insertion, Merge, Quick
+* Questions:
+
+  1. Implement all sorting algorithms.
+  2. Binary Search iterative + recursive.
+  3. Find kth smallest element.
+  4. Count number of inversions.
+  5. Merge two sorted arrays.
+
+#### **Days 71–75: Trees & Graphs**
+
+* Questions:
+
+  1. Create binary tree and do inorder traversal.
+  2. Level order traversal.
+  3. Check if tree is balanced.
+  4. DFS and BFS of graph.
+  5. Detect cycle in graph.
+
+---
+
+### **Phase 4: Advanced Java + Projects (Days 76–100)**
+
+> Goal: Learn multithreading, file handling, JDBC, and build mini projects.
+
+#### **Days 76–80: File Handling**
+
+* Learn: FileReader, FileWriter, BufferedReader
+* Questions:
+
+  1. Read and write to file.
+  2. Count words and lines.
+  3. Copy contents from one file to another.
+  4. Search a word in file.
+  5. Serialize and deserialize object.
+
+#### **Days 81–85: Multithreading**
+
+* Learn: Thread class, Runnable, synchronization
+* Questions:
+
+  1. Create a thread using Thread & Runnable.
+  2. Demonstrate synchronization.
+  3. Use `wait()`, `notify()`.
+  4. Print odd and even using two threads.
+  5. Thread pool example.
+
+#### **Days 86–90: JDBC & Database**
+
+* Learn: JDBC setup, CRUD operations
+* Questions:
+
+  1. Connect Java to MySQL.
+  2. Insert and read data using JDBC.
+  3. Update and delete operations.
+  4. Use PreparedStatement.
+  5. Handle SQL exceptions.
+
+#### **Days 91–95: Mini Projects**
+
+* Ideas:
+
+  1. Library Management System (File-based or JDBC)
+  2. Student Result Management
+  3. Expense Tracker
+  4. Quiz App using OOP
+  5. Bank Management System
+
+#### **Days 96–100: Java + Frameworks (Spring Boot Intro)**
+
+* Learn: Basics of Spring Boot
+* Questions:
+
+  1. Create a simple REST API using Spring Boot.
+  2. Build CRUD for student records.
+  3. Integrate MySQL with Spring Boot.
+  4. Use `@RestController`, `@Service`, `@Repository`.
+  5. Test your API using Postman.
+
+---
+
+### ✅ **Outcome by Day 100**
+
+You’ll be:
+
+* Solid in **Core Java + OOP + Collections**
+* Confident with **DSA (Interview level)**
+* Comfortable with **JDBC, Multithreading**
+* Ready for **Java Full Stack / Spring Boot** learning path
+
+---
+
+Would you like me to make this plan in a **daily checklist table (100 rows)** with ✅ boxes and progress tracker format (e.g., for Notion/Excel)?
+It’ll make it easier for you to follow and mark completed days.
